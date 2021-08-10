@@ -1,0 +1,25 @@
+{
+  "name": "friendfinder",
+  "version": "1.0.0",
+  "description": "An Express app matching a user wiht a new fury friend.",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.16.4",
+    "path": "^0.12.7"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "test",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/plnorris97/FriendFinder.git"
+  },
+  "author": "Tricia Norris",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/plnorris97/FriendFinder/issues"
+  },
+  "homepage": "https://github.com/plnorris97/FriendFinder#readme"
+}
